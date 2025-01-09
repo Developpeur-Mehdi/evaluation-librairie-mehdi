@@ -1,0 +1,1 @@
+{"version":1,"defects":{"RetourLivreTest::testRetournerLivre":7},"times":{"EmpruntsTest::testGetEmpruntsByUser":0.006,"RetourLivreTest::testRetournerLivre":0.021}}
